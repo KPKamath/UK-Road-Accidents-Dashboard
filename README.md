@@ -1,6 +1,6 @@
 # UK Road Accidents Dashboard
 
-This interactive dashboard provides a comprehensive analysis of road accidents across the UK between the years 2019 & 2022, segmented by various factors such as accident severity, vehicle type, weather, and road surface conditions. Below is a breakdown of the charts and their insights:
+This interactive dashboard provides a comprehensive analysis of road accidents across the UK between the years 2019 & 2022 (660k+ records), segmented by various factors such as accident severity, vehicle type, weather, and road surface conditions. Below is a breakdown of the charts and their insights:
 
 ![Dashboard](https://github.com/user-attachments/assets/8139f41f-aa57-479a-88d1-3bc3ce1bdc33)
 
